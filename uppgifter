@@ -13,7 +13,7 @@ namespace Uppg1
             lista.Add(18);
             lista.Add(12);
             lista.Add(6);
-            lista.RemoveAt(2);
+            lista.RemoveAt(3);
             foreach (double element in lista)
             {
                 Console.WriteLine(element);
